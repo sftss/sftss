@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sefer Tasdemir, a 19-year-old computer science student <br>passionate about building innovative and functional applications. <br>Currently studying in the IUT of Annecy, France, As a <br>passionate developer, I strive to continuously improve both <br>personally and technically. I am confident working as part of your <br>team while maintaining autonomy. My motivation, and love for <br>challenges make me the <br>ideal candidate to contribute to your projects. I play soccer and bascketball<br>with my friends, and i do musculation five times a week.
+Hi, I'm Sefer Tasdemir, a 19-year-old computer science student passionate about building innovative and functional applications, I am currently studying in the IUT of Annecy, France. As a passionate developer, I strive to continuously improve both personally and technically. I am passionate about new technologies and user-focused applications. My experience in several programming languages and object-relational database management system gives me a certain confidence regarding future challenges. I’m always eager to learn new technologies and work on new projects.
 
 
 ## 🌐 Socials:
