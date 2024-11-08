@@ -17,8 +17,6 @@ Hi, I'm Sefer Tasdemir, a 19-year-old computer science student passionate about 
                                                               ![](https://github-readme-streak-stats.herokuapp.com/?user=sftss&theme=blue_navy&hide_border=true)<br/>
 
 
-### 🔝 Top Contributed Repo
-                                                              ![](https://github-contributor-stats.vercel.app/api?username=sftss&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sftss&icon=0&color=0)](https://visitcount.itsvg.in)
