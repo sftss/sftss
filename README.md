@@ -19,4 +19,4 @@ Hi, I'm Sefer Tasdemir, a 19-year-old computer science student passionate about 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sftss&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sftss&icon=0&color=0)](https://visitcount.itsvg.in) 
